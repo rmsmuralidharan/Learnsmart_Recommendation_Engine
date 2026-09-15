@@ -1,0 +1,501 @@
+course_id,course_name,category,difficulty_level,description,prerequisites,difficulty_level_encoded
+CRS00001,Data Analytics Fundamentals,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00002,Getting Started with Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00003,Getting Started with Web Development,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00004,Getting Started with Data Analytics,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00005,Getting Started with Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00006,Introduction to Data Analytics,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00007,Getting Started with Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00008,Introduction to DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00009,Getting Started with Artificial Intelligence,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00010,Artificial Intelligence Fundamentals,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00011,SQL Fundamentals,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00012,DevOps Fundamentals,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00013,Getting Started with SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00014,Getting Started with Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00015,Software Development Fundamentals,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00016,Introduction to Cybersecurity,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00017,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00018,Getting Started with Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00019,Introduction to Web Development,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00020,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00021,Introduction to DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00022,Introduction to Cybersecurity,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00023,Software Development Fundamentals,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00024,Getting Started with Python,Python,Beginner,This Beginner course teaches Python concepts and practical skills.,None,0
+CRS00025,Web Development Fundamentals,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00026,Getting Started with Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00027,Data Science Fundamentals,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00028,Introduction to DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00029,Artificial Intelligence Fundamentals,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00030,Introduction to Deep Learning,Deep Learning,Beginner,This Beginner course teaches Deep Learning concepts and practical skills.,None,0
+CRS00031,Introduction to Data Analytics,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00032,Introduction to Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00033,Introduction to Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00034,Getting Started with DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00035,Introduction to Python,Python,Beginner,This Beginner course teaches Python concepts and practical skills.,None,0
+CRS00036,DevOps Fundamentals,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00037,Getting Started with Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00038,Web Development Fundamentals,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00039,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00040,SQL Fundamentals,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00041,Data Analytics Fundamentals,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00042,Introduction to Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00043,Getting Started with Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00044,DevOps Fundamentals,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00045,Getting Started with Artificial Intelligence,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00046,Data Science Fundamentals,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00047,Getting Started with Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00048,Getting Started with Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00049,Introduction to Cybersecurity,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00050,Data Science Fundamentals,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00051,Getting Started with Data Analytics,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00052,Introduction to Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00053,Getting Started with Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00054,Getting Started with Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00055,Artificial Intelligence Fundamentals,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00056,Artificial Intelligence Fundamentals,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00057,Introduction to Web Development,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00058,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00059,Getting Started with DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00060,Introduction to Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00061,Introduction to DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00062,SQL Fundamentals,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00063,Introduction to Artificial Intelligence,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00064,Getting Started with Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00065,DevOps Fundamentals,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00066,Cybersecurity Fundamentals,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00067,Data Science Fundamentals,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00068,Getting Started with Deep Learning,Deep Learning,Beginner,This Beginner course teaches Deep Learning concepts and practical skills.,None,0
+CRS00069,Introduction to Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00070,Introduction to Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00071,Introduction to Web Development,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00072,Software Development Fundamentals,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00073,Python Fundamentals,Python,Beginner,This Beginner course teaches Python concepts and practical skills.,None,0
+CRS00074,Introduction to Cybersecurity,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00075,Getting Started with Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00076,Getting Started with Data Analytics,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00077,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00078,Getting Started with Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00079,Introduction to Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00080,DevOps Fundamentals,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00081,Introduction to Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00082,Getting Started with Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00083,Data Science Fundamentals,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00084,Getting Started with Artificial Intelligence,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00085,Cloud Computing Fundamentals,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00086,Cloud Computing Fundamentals,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00087,Cybersecurity Fundamentals,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00088,Artificial Intelligence Fundamentals,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00089,Introduction to Data Analytics,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00090,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00091,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00092,Introduction to DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00093,Introduction to Cybersecurity,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00094,Cybersecurity Fundamentals,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00095,Cloud Computing Fundamentals,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00096,Software Development Fundamentals,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00097,Getting Started with DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00098,Artificial Intelligence Fundamentals,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00099,Introduction to Deep Learning,Deep Learning,Beginner,This Beginner course teaches Deep Learning concepts and practical skills.,None,0
+CRS00100,Introduction to Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00101,Python Fundamentals,Python,Beginner,This Beginner course teaches Python concepts and practical skills.,None,0
+CRS00102,Getting Started with Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00103,Introduction to Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00104,Getting Started with Cybersecurity,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00105,Software Development Fundamentals,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00106,Getting Started with Deep Learning,Deep Learning,Beginner,This Beginner course teaches Deep Learning concepts and practical skills.,None,0
+CRS00107,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00108,Introduction to Cybersecurity,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00109,Getting Started with Python,Python,Beginner,This Beginner course teaches Python concepts and practical skills.,None,0
+CRS00110,Cloud Computing Fundamentals,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00111,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00112,Data Science Fundamentals,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00113,Introduction to Cybersecurity,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00114,Getting Started with DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00115,Getting Started with Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00116,Cloud Computing Fundamentals,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00117,Introduction to Python,Python,Beginner,This Beginner course teaches Python concepts and practical skills.,None,0
+CRS00118,Introduction to Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00119,Getting Started with Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00120,Introduction to Data Analytics,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00121,Artificial Intelligence Fundamentals,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00122,Getting Started with Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00123,Introduction to Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00124,SQL Fundamentals,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00125,Getting Started with Web Development,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00126,SQL Fundamentals,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00127,Getting Started with Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00128,Getting Started with Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00129,Introduction to Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00130,Getting Started with Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00131,Getting Started with Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00132,Introduction to DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00133,Getting Started with DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00134,Introduction to Python,Python,Beginner,This Beginner course teaches Python concepts and practical skills.,None,0
+CRS00135,DevOps Fundamentals,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00136,Machine Learning Fundamentals,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00137,Introduction to Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00138,Artificial Intelligence Fundamentals,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00139,Web Development Fundamentals,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00140,Introduction to Deep Learning,Deep Learning,Beginner,This Beginner course teaches Deep Learning concepts and practical skills.,None,0
+CRS00141,DevOps Fundamentals,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00142,Getting Started with Artificial Intelligence,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00143,Introduction to Python,Python,Beginner,This Beginner course teaches Python concepts and practical skills.,None,0
+CRS00144,Getting Started with Cybersecurity,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00145,Introduction to Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00146,Cybersecurity Fundamentals,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00147,Introduction to Deep Learning,Deep Learning,Beginner,This Beginner course teaches Deep Learning concepts and practical skills.,None,0
+CRS00148,Introduction to Data Analytics,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00149,Cybersecurity Fundamentals,Cybersecurity,Beginner,This Beginner course teaches Cybersecurity concepts and practical skills.,None,0
+CRS00150,Machine Learning Fundamentals,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00151,Web Development Fundamentals,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00152,Getting Started with Deep Learning,Deep Learning,Beginner,This Beginner course teaches Deep Learning concepts and practical skills.,None,0
+CRS00153,Introduction to Artificial Intelligence,Artificial Intelligence,Beginner,This Beginner course teaches Artificial Intelligence concepts and practical skills.,None,0
+CRS00154,Introduction to Web Development,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00155,Getting Started with Data Analytics,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00156,Introduction to Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00157,Getting Started with Deep Learning,Deep Learning,Beginner,This Beginner course teaches Deep Learning concepts and practical skills.,None,0
+CRS00158,Getting Started with Data Analytics,Data Analytics,Beginner,This Beginner course teaches Data Analytics concepts and practical skills.,None,0
+CRS00159,Introduction to Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00160,Introduction to Machine Learning,Machine Learning,Beginner,This Beginner course teaches Machine Learning concepts and practical skills.,None,0
+CRS00161,Introduction to DevOps,DevOps,Beginner,This Beginner course teaches DevOps concepts and practical skills.,None,0
+CRS00162,Introduction to Web Development,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00163,Getting Started with Cloud Computing,Cloud Computing,Beginner,This Beginner course teaches Cloud Computing concepts and practical skills.,None,0
+CRS00164,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00165,Getting Started with Web Development,Web Development,Beginner,This Beginner course teaches Web Development concepts and practical skills.,None,0
+CRS00166,Introduction to Deep Learning,Deep Learning,Beginner,This Beginner course teaches Deep Learning concepts and practical skills.,None,0
+CRS00167,Introduction to SQL,SQL,Beginner,This Beginner course teaches SQL concepts and practical skills.,None,0
+CRS00168,Introduction to Software Development,Software Development,Beginner,This Beginner course teaches Software Development concepts and practical skills.,None,0
+CRS00169,Introduction to Data Science,Data Science,Beginner,This Beginner course teaches Data Science concepts and practical skills.,None,0
+CRS00170,Getting Started with Deep Learning,Deep Learning,Beginner,This Beginner course teaches Deep Learning concepts and practical skills.,None,0
+CRS00171,Intermediate Machine Learning,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00172,Machine Learning in Practice,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00173,Applied Software Development,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00174,Intermediate Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00175,Data Science in Practice,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00176,Machine Learning in Practice,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00177,Python in Practice,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00178,Machine Learning in Practice,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00179,Applied SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00180,Intermediate Web Development,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00181,Intermediate Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00182,Intermediate Machine Learning,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00183,Intermediate Python,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00184,Intermediate Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00185,DevOps in Practice,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00186,Applied Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00187,Applied Machine Learning,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00188,Applied Cybersecurity,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00189,Applied Software Development,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00190,Artificial Intelligence in Practice,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00191,Applied Cybersecurity,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00192,Python in Practice,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00193,Intermediate Web Development,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00194,Web Development in Practice,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00195,Cloud Computing in Practice,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00196,Intermediate Web Development,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00197,Intermediate Software Development,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00198,Intermediate Cybersecurity,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00199,Intermediate Python,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00200,Intermediate Software Development,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00201,Intermediate DevOps,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00202,Cloud Computing in Practice,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00203,Intermediate Machine Learning,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00204,Applied SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00205,Intermediate Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00206,Intermediate SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00207,Intermediate Python,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00208,Applied Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00209,Intermediate SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00210,Intermediate Deep Learning,Deep Learning,Intermediate,This Intermediate course teaches Deep Learning concepts and practical skills.,CRS00170,1
+CRS00211,Intermediate Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00212,Applied Data Analytics,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00213,Applied SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00214,Intermediate Data Analytics,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00215,Intermediate Software Development,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00216,Data Science in Practice,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00217,Intermediate Data Analytics,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00218,Data Science in Practice,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00219,Software Development in Practice,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00220,Data Analytics in Practice,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00221,Applied Software Development,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00222,Intermediate Deep Learning,Deep Learning,Intermediate,This Intermediate course teaches Deep Learning concepts and practical skills.,CRS00170,1
+CRS00223,Applied DevOps,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00224,Applied Web Development,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00225,Intermediate Data Analytics,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00226,Data Analytics in Practice,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00227,Intermediate Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00228,Applied SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00229,Intermediate Software Development,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00230,SQL in Practice,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00231,Applied DevOps,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00232,Data Analytics in Practice,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00233,Applied Data Analytics,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00234,Applied Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00235,Data Science in Practice,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00236,Applied DevOps,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00237,Applied DevOps,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00238,Artificial Intelligence in Practice,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00239,Intermediate Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00240,Web Development in Practice,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00241,Machine Learning in Practice,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00242,Intermediate SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00243,Applied Web Development,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00244,Data Analytics in Practice,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00245,Applied Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00246,Applied Python,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00247,Applied Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00248,Intermediate Python,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00249,Cybersecurity in Practice,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00250,Applied Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00251,Intermediate DevOps,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00252,Applied SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00253,Intermediate Software Development,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00254,Software Development in Practice,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00255,Applied SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00256,Intermediate DevOps,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00257,Applied DevOps,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00258,Applied Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00259,Applied Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00260,Python in Practice,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00261,Intermediate Cybersecurity,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00262,Applied SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00263,Intermediate SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00264,Applied SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00265,Applied Cybersecurity,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00266,Intermediate Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00267,Intermediate Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00268,Python in Practice,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00269,Intermediate Data Analytics,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00270,Artificial Intelligence in Practice,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00271,Cloud Computing in Practice,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00272,Intermediate Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00273,Intermediate Data Analytics,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00274,Web Development in Practice,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00275,Applied Python,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00276,Applied Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00277,Intermediate Python,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00278,Intermediate Python,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00279,Intermediate Machine Learning,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00280,Machine Learning in Practice,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00281,DevOps in Practice,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00282,Intermediate Software Development,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00283,Artificial Intelligence in Practice,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00284,Intermediate Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00285,Intermediate Data Analytics,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00286,Applied Cybersecurity,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00287,Intermediate Cybersecurity,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00288,Applied Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00289,Intermediate Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00290,Intermediate Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00291,Intermediate Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00292,Intermediate DevOps,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00293,Applied Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00294,Intermediate Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00295,Applied Web Development,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00296,SQL in Practice,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00297,Machine Learning in Practice,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00298,Applied Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00299,Applied Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00300,Intermediate Cloud Computing,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00301,Applied Cybersecurity,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00302,Applied Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00303,Cybersecurity in Practice,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00304,Cybersecurity in Practice,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00305,Applied Web Development,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00306,Applied Machine Learning,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00307,Machine Learning in Practice,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00308,Data Analytics in Practice,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00309,Artificial Intelligence in Practice,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00310,Intermediate SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00311,Data Analytics in Practice,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00312,Deep Learning in Practice,Deep Learning,Intermediate,This Intermediate course teaches Deep Learning concepts and practical skills.,CRS00170,1
+CRS00313,Intermediate Data Analytics,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00314,Applied Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00315,Machine Learning in Practice,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00316,Intermediate Software Development,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00317,Data Analytics in Practice,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00318,Python in Practice,Python,Intermediate,This Intermediate course teaches Python concepts and practical skills.,CRS00143,1
+CRS00319,Intermediate Web Development,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00320,Data Science in Practice,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00321,Artificial Intelligence in Practice,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00322,Intermediate Data Analytics,Data Analytics,Intermediate,This Intermediate course teaches Data Analytics concepts and practical skills.,CRS00158,1
+CRS00323,Applied Deep Learning,Deep Learning,Intermediate,This Intermediate course teaches Deep Learning concepts and practical skills.,CRS00170,1
+CRS00324,Cloud Computing in Practice,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00325,Applied Data Science,Data Science,Intermediate,This Intermediate course teaches Data Science concepts and practical skills.,CRS00169,1
+CRS00326,Intermediate SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00327,Intermediate Cybersecurity,Cybersecurity,Intermediate,This Intermediate course teaches Cybersecurity concepts and practical skills.,CRS00149,1
+CRS00328,Applied Web Development,Web Development,Intermediate,This Intermediate course teaches Web Development concepts and practical skills.,CRS00165,1
+CRS00329,Applied Machine Learning,Machine Learning,Intermediate,This Intermediate course teaches Machine Learning concepts and practical skills.,CRS00160,1
+CRS00330,Cloud Computing in Practice,Cloud Computing,Intermediate,This Intermediate course teaches Cloud Computing concepts and practical skills.,CRS00163,1
+CRS00331,Intermediate SQL,SQL,Intermediate,This Intermediate course teaches SQL concepts and practical skills.,CRS00167,1
+CRS00332,Software Development in Practice,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00333,Applied DevOps,DevOps,Intermediate,This Intermediate course teaches DevOps concepts and practical skills.,CRS00161,1
+CRS00334,Intermediate Artificial Intelligence,Artificial Intelligence,Intermediate,This Intermediate course teaches Artificial Intelligence concepts and practical skills.,CRS00153,1
+CRS00335,Software Development in Practice,Software Development,Intermediate,This Intermediate course teaches Software Development concepts and practical skills.,CRS00168,1
+CRS00336,Mastering DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00337,Cloud Computing Techniques,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00338,Cybersecurity Techniques,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00339,Advanced DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00340,Mastering Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00341,Mastering Software Development,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00342,Mastering Machine Learning,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00343,Software Development Techniques,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00344,Mastering Cloud Computing,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00345,SQL Techniques,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00346,Advanced Cybersecurity,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00347,Advanced Data Science,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00348,Artificial Intelligence Techniques,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00349,Advanced DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00350,Artificial Intelligence Techniques,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00351,Software Development Techniques,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00352,Cybersecurity Techniques,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00353,Mastering Data Analytics,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00354,Data Science Techniques,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00355,Data Science Techniques,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00356,Mastering DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00357,Mastering Cybersecurity,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00358,Mastering SQL,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00359,Mastering Deep Learning,Deep Learning,Advanced,This Advanced course teaches Deep Learning concepts and practical skills.,CRS00323,2
+CRS00360,Data Science Techniques,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00361,Advanced Artificial Intelligence,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00362,Mastering Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00363,Mastering DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00364,Mastering Data Analytics,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00365,Advanced SQL,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00366,Advanced Data Science,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00367,Advanced Data Analytics,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00368,Mastering Artificial Intelligence,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00369,Advanced Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00370,Mastering Deep Learning,Deep Learning,Advanced,This Advanced course teaches Deep Learning concepts and practical skills.,CRS00323,2
+CRS00371,Mastering DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00372,Deep Learning Techniques,Deep Learning,Advanced,This Advanced course teaches Deep Learning concepts and practical skills.,CRS00323,2
+CRS00373,Mastering DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00374,Mastering Cloud Computing,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00375,Advanced Deep Learning,Deep Learning,Advanced,This Advanced course teaches Deep Learning concepts and practical skills.,CRS00323,2
+CRS00376,Mastering Software Development,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00377,Mastering DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00378,Data Science Techniques,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00379,Machine Learning Techniques,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00380,Advanced Cloud Computing,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00381,Advanced Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00382,Machine Learning Techniques,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00383,Artificial Intelligence Techniques,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00384,Data Analytics Techniques,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00385,Advanced Cloud Computing,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00386,Advanced DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00387,Advanced DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00388,Mastering Data Analytics,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00389,Advanced Deep Learning,Deep Learning,Advanced,This Advanced course teaches Deep Learning concepts and practical skills.,CRS00323,2
+CRS00390,Machine Learning Techniques,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00391,DevOps Techniques,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00392,Machine Learning Techniques,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00393,Deep Learning Techniques,Deep Learning,Advanced,This Advanced course teaches Deep Learning concepts and practical skills.,CRS00323,2
+CRS00394,DevOps Techniques,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00395,Cloud Computing Techniques,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00396,Mastering SQL,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00397,Mastering Cybersecurity,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00398,Cloud Computing Techniques,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00399,Mastering SQL,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00400,DevOps Techniques,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00401,Mastering Python,Python,Advanced,This Advanced course teaches Python concepts and practical skills.,CRS00318,2
+CRS00402,SQL Techniques,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00403,Data Analytics Techniques,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00404,Advanced Machine Learning,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00405,Data Analytics Techniques,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00406,Advanced Cloud Computing,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00407,Advanced Cybersecurity,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00408,Advanced DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00409,SQL Techniques,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00410,Advanced Machine Learning,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00411,Advanced Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00412,Mastering Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00413,Advanced Artificial Intelligence,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00414,Data Science Techniques,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00415,Mastering Python,Python,Advanced,This Advanced course teaches Python concepts and practical skills.,CRS00318,2
+CRS00416,Data Science Techniques,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00417,DevOps Techniques,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00418,Data Analytics Techniques,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00419,SQL Techniques,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00420,Python Techniques,Python,Advanced,This Advanced course teaches Python concepts and practical skills.,CRS00318,2
+CRS00421,Mastering Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00422,SQL Techniques,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00423,Advanced Data Analytics,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00424,Mastering DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00425,Advanced Data Science,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00426,Advanced Software Development,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00427,Machine Learning Techniques,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00428,Mastering Machine Learning,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00429,Mastering Cybersecurity,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00430,Mastering Deep Learning,Deep Learning,Advanced,This Advanced course teaches Deep Learning concepts and practical skills.,CRS00323,2
+CRS00431,Mastering Cloud Computing,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00432,Web Development Techniques,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00433,Mastering Machine Learning,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00434,Advanced DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00435,Advanced SQL,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00436,Mastering Machine Learning,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00437,SQL Techniques,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00438,Mastering Python,Python,Advanced,This Advanced course teaches Python concepts and practical skills.,CRS00318,2
+CRS00439,Mastering Machine Learning,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00440,Web Development Techniques,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00441,Mastering Cybersecurity,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00442,Machine Learning Techniques,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00443,Advanced Python,Python,Advanced,This Advanced course teaches Python concepts and practical skills.,CRS00318,2
+CRS00444,Software Development Techniques,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00445,Data Science Techniques,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00446,Mastering Software Development,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00447,Mastering DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00448,Web Development Techniques,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00449,Data Analytics Techniques,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00450,Mastering Software Development,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00451,Advanced Cybersecurity,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00452,Mastering Data Science,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00453,Advanced Software Development,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00454,Mastering Python,Python,Advanced,This Advanced course teaches Python concepts and practical skills.,CRS00318,2
+CRS00455,Advanced SQL,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00456,Cloud Computing Techniques,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00457,Advanced SQL,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00458,Advanced SQL,SQL,Advanced,This Advanced course teaches SQL concepts and practical skills.,CRS00331,2
+CRS00459,Data Science Techniques,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00460,Advanced Python,Python,Advanced,This Advanced course teaches Python concepts and practical skills.,CRS00318,2
+CRS00461,Mastering Data Science,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00462,Artificial Intelligence Techniques,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00463,Mastering Artificial Intelligence,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00464,Mastering Artificial Intelligence,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00465,Advanced Cybersecurity,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00466,DevOps Techniques,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00467,Machine Learning Techniques,Machine Learning,Advanced,This Advanced course teaches Machine Learning concepts and practical skills.,CRS00329,2
+CRS00468,Artificial Intelligence Techniques,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00469,Advanced Data Analytics,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00470,Artificial Intelligence Techniques,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00471,Cybersecurity Techniques,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00472,Mastering Data Science,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00473,Data Science Techniques,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00474,Advanced DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00475,Mastering Artificial Intelligence,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00476,Advanced Deep Learning,Deep Learning,Advanced,This Advanced course teaches Deep Learning concepts and practical skills.,CRS00323,2
+CRS00477,Web Development Techniques,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00478,Mastering Data Analytics,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00479,Mastering Cybersecurity,Cybersecurity,Advanced,This Advanced course teaches Cybersecurity concepts and practical skills.,CRS00327,2
+CRS00480,Advanced Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00481,DevOps Techniques,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00482,Mastering Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00483,Mastering Data Analytics,Data Analytics,Advanced,This Advanced course teaches Data Analytics concepts and practical skills.,CRS00322,2
+CRS00484,Mastering Artificial Intelligence,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00485,Mastering Artificial Intelligence,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00486,Advanced Deep Learning,Deep Learning,Advanced,This Advanced course teaches Deep Learning concepts and practical skills.,CRS00323,2
+CRS00487,Mastering Software Development,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00488,Advanced Software Development,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00489,Mastering Cloud Computing,Cloud Computing,Advanced,This Advanced course teaches Cloud Computing concepts and practical skills.,CRS00330,2
+CRS00490,Advanced DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00491,Artificial Intelligence Techniques,Artificial Intelligence,Advanced,This Advanced course teaches Artificial Intelligence concepts and practical skills.,CRS00334,2
+CRS00492,Advanced Software Development,Software Development,Advanced,This Advanced course teaches Software Development concepts and practical skills.,CRS00335,2
+CRS00493,Data Science Techniques,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00494,Mastering DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00495,Advanced Data Science,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2
+CRS00496,Mastering DevOps,DevOps,Advanced,This Advanced course teaches DevOps concepts and practical skills.,CRS00333,2
+CRS00497,Advanced Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00498,Advanced Deep Learning,Deep Learning,Advanced,This Advanced course teaches Deep Learning concepts and practical skills.,CRS00323,2
+CRS00499,Mastering Web Development,Web Development,Advanced,This Advanced course teaches Web Development concepts and practical skills.,CRS00328,2
+CRS00500,Advanced Data Science,Data Science,Advanced,This Advanced course teaches Data Science concepts and practical skills.,CRS00325,2

@@ -17,7 +17,7 @@ class LearnSmartAIException(Exception):
         self.error_message = error_message  ### stores the error message as an attribute 
 
         if error_detail is not None:        ### checks whether additional info about the error/traceback info was provided
-            _,_, traceback = error_detail   ### error detail contains = error_type, error_value, traceback
+            _,_, traceback = error_detail.exc_info()   ### error detail contains = error_type, error_value, traceback
 
             if traceback is not None:           ### checks whether valid traceback object exists
                 self.file_name = traceback.tb_frame.f_code.co_filename     ### gets the file name where the error ocurred

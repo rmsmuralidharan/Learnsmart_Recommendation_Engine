@@ -2,4 +2,5 @@ setuptools
 pandas 
 numpy
 faker
+scikit-learn
 -e .
