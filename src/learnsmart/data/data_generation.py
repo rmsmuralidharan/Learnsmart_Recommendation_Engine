@@ -107,14 +107,6 @@ COURSE_CATEGORIES = [
     "Software Development",
 ]
 
-LEARNING_PATHS = [
-    ["Python", "Data Science", "Machine Learning", "Deep Learning"],
-    ["SQL", "Data Analytics", "Data Science"],
-    ["Web Development", "Software Development"],
-    ["Cloud Computing", "DevOps"],
-    ["Artificial Intelligence", "Machine Learning", "Deep Learning"],
-]
-
 COURSE_DIFFICULTIES = [
     'Beginner',
     'Intermediate',
@@ -231,50 +223,65 @@ def generate_interactions():
     interactions = []
 
     for _, student in students_df.iterrows():
+
         student_id = student["student_id"]
         interests = student["interests"].split(", ")
         experience_level = student["experience_level"]
 
-        # Courses from the student's interests
         preferred_courses = courses_df[
             courses_df["category"].isin(interests)
         ]
 
-        # Select a learning path to create collaborative patterns
-        learning_path = LEARNING_PATHS[
-            np.random.randint(len(LEARNING_PATHS))
+        level_matched_courses = preferred_courses[
+            preferred_courses["difficulty_level"] == experience_level
         ]
 
-        path_courses = courses_df[
-            courses_df["category"].isin(learning_path)
-        ]
-
-        # Select 12 courses from the learning path
-        selected_path = np.random.choice(
-            path_courses["course_id"],
-            size=12,
-            replace=False
-        )
-
-        # Select 4 additional courses matching student interests
-        remaining_preferred = preferred_courses[
-            ~preferred_courses["course_id"].isin(selected_path)
-        ]
-
-        selected_preferred = np.random.choice(
-            remaining_preferred["course_id"],
-            size=4,
-            replace=False
-        )
-
-        # Select 4 unrelated courses
         other_courses = courses_df[
-            ~courses_df["course_id"].isin(
-                np.concatenate(
-                    [selected_path, selected_preferred]
-                )
-            )
+            ~courses_df["category"].isin(interests)
         ]
+
+        # If enough courses match both interest and experience,
+        # select most of the courses from this group.
+        if len(level_matched_courses) >= 16:
+
+            selected_level_courses = np.random.choice(
+                level_matched_courses["course_id"],
+                size=12,
+                replace=False
+            )
+
+            remaining_preferred = preferred_courses[
+                ~preferred_courses["course_id"].isin(
+                    selected_level_courses
+                )
+            ]
+
+            selected_preferred = np.random.choice(
+                remaining_preferred["course_id"],
+                size=4,
+                replace=False
+            )
+
+        else:
+            selected_level_courses = np.random.choice(
+                preferred_courses["course_id"],
+                size=min(12, len(preferred_courses)),
+                replace=False
+            )
+
+            remaining_count = 16 - len(selected_level_courses)
+
+            remaining_preferred = preferred_courses[
+                ~preferred_courses["course_id"].isin(
+                    selected_level_courses
+                )
+            ]
+
+            selected_preferred = np.random.choice(
+                remaining_preferred["course_id"],
+                size=remaining_count,
+                replace=False
+            )
 
         selected_other = np.random.choice(
             other_courses["course_id"],
@@ -282,23 +289,23 @@ def generate_interactions():
             replace=False
         )
 
-        # Total = 12 + 4 + 4 = 20 interactions
         selected_course_ids = np.concatenate(
             [
-                selected_path,
+                selected_level_courses,
                 selected_preferred,
                 selected_other
             ]
         )
 
         for course_id in selected_course_ids:
+
             course = courses_df[
                 courses_df["course_id"] == course_id
             ].iloc[0]
 
             course_difficulty = course["difficulty_level"]
 
-            # Experience level influences quiz performance
+            # Experience level influences quiz performance.
             if course_difficulty == experience_level:
                 quiz_score = np.random.randint(60, 101)
 
@@ -316,6 +323,7 @@ def generate_interactions():
             )
 
             time_spent = np.random.randint(15, 301)
+
             engagement_score = np.random.uniform(0, 1)
 
             if completion_status == "Completed":
